@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Locatr</string>
+    <string name="title_activity_locatr">Map</string>
+    <string name="menu_locate_title">Find Image near you</string>
+</resources>
